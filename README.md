@@ -1,5 +1,5 @@
 # ITEC3150 - Advanced Programming
-My assignments from the advanced programming course I took at GGC.
+My assignments from the advanced programming course I took at GGC. Taught by [Dr. Cynthia Johnson](https://www.linkedin.com/in/cynthia-johnson-6017b5122/)
 - **Binary File Writing Assignment**: Features binary file writing
 - **Binary File Reading Assignment P1**: Features reading from a binary file.
 - **Binary File Reading Assignment P2**: Features reading from a binary file using serializable interface.
